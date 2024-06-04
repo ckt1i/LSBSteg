@@ -1,4 +1,4 @@
-#LSB in Python
+# LSB in Python
 This pack is used for solving the LSB steganography problem. By using python to hide the text into the image and decode it.
 
 This pack contains two main python files:
